@@ -1,4 +1,4 @@
-def hellothere:
+def hellothere():
     print("hello")
-def hellospanish:
+def hellospanish():
     print("hola")
